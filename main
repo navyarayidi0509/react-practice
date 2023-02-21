@@ -1,0 +1,9 @@
+import React,{Component} from "react";
+class P extends Component{
+    render(){
+        return <h1>he
+             hi</h1>
+    }
+}
+export default P;
+//class component
