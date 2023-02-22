@@ -6,3 +6,4 @@ const P= props => {
 
 }
 export default P;
+//props using functional components
